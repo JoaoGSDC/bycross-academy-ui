@@ -9,6 +9,7 @@ export const Container = styled.div`
   box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.9);
 
   position: absolute;
+  z-index: 12;
   top: 0px;
   left: 0px;
   width: 100%;
